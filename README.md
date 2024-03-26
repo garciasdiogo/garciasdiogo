@@ -6,6 +6,7 @@ My focus is on optimizing processes, and I consider myself dedicated, creative, 
 I speak English, Portuguese, and intermediate Spanish. Currently, I am studying PHP, CSS3, Python and JavaScript.
 
 WhatsApp: +55 51 993298052
+<br>
 linkedIn: https://www.linkedin.com/in/diogo-santos-a100881a4/
 
 <!--
