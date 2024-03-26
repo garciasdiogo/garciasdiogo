@@ -1,4 +1,12 @@
 ### Hi there 👋
+I've always been passionate about the world of technology; my curiosity to understand how everything works makes me someone who is constantly seeking knowledge and skill enhancement.
+
+My focus is on optimizing processes, and I consider myself dedicated, creative, with a strong sense of analysis, and possessing good interpersonal skills.
+
+I speak English, Portuguese, and intermediate Spanish. Currently, I am studying PHP, CSS3, Python and JavaScript.
+
+WhatsApp: +55 51 993298052
+linkedIn: https://www.linkedin.com/in/diogo-santos-a100881a4/
 
 <!--
 **garciasdiogo/garciasdiogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
