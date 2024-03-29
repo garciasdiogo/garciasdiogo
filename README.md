@@ -1,9 +1,9 @@
 ### Hi there 👋
-I've always been passionate about the world of technology; my curiosity to understand how everything works makes me someone who is constantly seeking knowledge and skill enhancement.
+<p>I've always been passionate about the world of technology; my curiosity to understand how everything works makes me someone who is constantly seeking knowledge and skill enhancement.</p>
 
-My focus is on optimizing processes, and I consider myself dedicated, creative, with a strong sense of analysis, and possessing good interpersonal skills.
+<p>My focus is on optimizing processes, and I consider myself dedicated, creative, with a strong sense of analysis, and possessing good interpersonal skills.</p>
 
-I speak English, Portuguese, and intermediate Spanish. Currently, I am studying PHP, CSS3, Python and JavaScript.
+<p>I speak English, Portuguese, and intermediate Spanish. Currently, I am studying PHP, CSS3, Python and JavaScript.</p>
 
 
   <a href="https://www.linkedin.com/in/diogo-santos-a100881a4/" alt="LinkedIN" target="_blank">
