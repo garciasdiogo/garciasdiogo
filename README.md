@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>I've always been passionate about the world of technology; my curiosity to understand how everything works makes me someone who is constantly seeking knowledge and skill enhancement.</p>
+<p>I've always been passionate about the world of technology, my curiosity to understand how everything works makes me someone who is constantly seeking knowledge and skill enhancement.</p>
 
 <p>My focus is on optimizing processes, and I consider myself dedicated, creative, with a strong sense of analysis, and possessing good interpersonal skills.</p>
 
